@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T10:07:31.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8jQ26JBZA77pERZ9a3kv" version="14.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-10T10:10:22.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="RZ169bvsxQLxQZBJCOWy" version="14.0.0" type="github" pages="3">
   <diagram name="General" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_82ysogssmFcVFRpUiRG" name="Menu">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="S-d7XXDx1svY5DcgzMVY-0" />
         <mxCell id="S-d7XXDx1svY5DcgzMVY-1" parent="S-d7XXDx1svY5DcgzMVY-0" />
@@ -253,13 +253,16 @@
           <mxGeometry x="650" y="44" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eeBweOvzlbVDFYczEJ34-6" value="Create&lt;br&gt;Movies" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="S-d7XXDx1svY5DcgzMVY-1">
-          <mxGeometry x="120" y="230" width="150" height="130" as="geometry" />
+          <mxGeometry x="100" y="350" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eeBweOvzlbVDFYczEJ34-7" value="Search &lt;br&gt;Movies" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="S-d7XXDx1svY5DcgzMVY-1">
-          <mxGeometry x="384" y="230" width="150" height="130" as="geometry" />
+          <mxGeometry x="364" y="350" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eeBweOvzlbVDFYczEJ34-8" value="Edit&lt;br&gt;User" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="S-d7XXDx1svY5DcgzMVY-1">
-          <mxGeometry x="620" y="230" width="150" height="130" as="geometry" />
+          <mxGeometry x="600" y="350" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eeBweOvzlbVDFYczEJ34-11" value="Movies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=39;" vertex="1" parent="S-d7XXDx1svY5DcgzMVY-1">
+          <mxGeometry x="355" y="190" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
