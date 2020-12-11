@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T19:01:28.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1XMas4uN2Nxjk1uVhjlE" version="14.0.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-11T00:15:55.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qyAOFu8yOAFCmW5kuRQf" version="14.0.0" type="github" pages="9">
   <diagram name="General" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Create Movie" id="0EPSjNi30GMfokN5aftO">
+  <diagram name="Search movies" id="0EPSjNi30GMfokN5aftO">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8IMtksWJunkmSu1FN02Z-0" />
@@ -368,7 +368,7 @@
         <mxCell id="8IMtksWJunkmSu1FN02Z-12" value="Genres" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="8IMtksWJunkmSu1FN02Z-7" vertex="1">
           <mxGeometry x="120" y="243.99716981132076" width="210" height="26.10922641509434" as="geometry" />
         </mxCell>
-        <mxCell id="8IMtksWJunkmSu1FN02Z-13" value="Create Movie" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="8IMtksWJunkmSu1FN02Z-1" vertex="1">
+        <mxCell id="8IMtksWJunkmSu1FN02Z-13" value="Search movies" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="8IMtksWJunkmSu1FN02Z-1" vertex="1">
           <mxGeometry x="360" y="170.00333333333333" width="100" height="70.66666666666666" as="geometry" />
         </mxCell>
       </root>
