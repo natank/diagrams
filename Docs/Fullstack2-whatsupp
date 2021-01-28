@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T07:37:56.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="GWUUi5U8xj0YObsJdyze" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-28T12:05:06.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XvVVducAz8pirwQgxYef" version="14.2.7" type="github" pages="2">
   <diagram id="UGNJpeUQMLZwutwp3lZp" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0ovc_a5ujL2TssiEfVGP" name="Page-2">
-    <mxGraphModel dx="981" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Quqv_jCw_hD5aWrR-QR0-0" />
         <mxCell id="Quqv_jCw_hD5aWrR-QR0-1" parent="Quqv_jCw_hD5aWrR-QR0-0" />
@@ -298,7 +298,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPEUSiE2H6RtViFoToI9-5" value="New Group" style="whiteSpace=wrap;html=1;" vertex="1" parent="Quqv_jCw_hD5aWrR-QR0-1">
+        <mxCell id="lPEUSiE2H6RtViFoToI9-5" value="new chat" style="whiteSpace=wrap;html=1;" vertex="1" parent="Quqv_jCw_hD5aWrR-QR0-1">
           <mxGeometry x="970" y="357" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lPEUSiE2H6RtViFoToI9-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="lPEUSiE2H6RtViFoToI9-5" parent="Quqv_jCw_hD5aWrR-QR0-1" source="Quqv_jCw_hD5aWrR-QR0-3">
