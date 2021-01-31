@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T13:40:55.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Mrv9uZoU5B2-FuSRDoFr" version="14.2.7" type="github" pages="3">
-  <diagram id="UGNJpeUQMLZwutwp3lZp" name="Page-1">
-    <mxGraphModel dx="782" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-01-31T08:20:42.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="3c0Ooc7zDoSh6QAt8D9G" version="14.2.7" type="github" pages="3">
+  <diagram id="UGNJpeUQMLZwutwp3lZp" name="Model">
+    <mxGraphModel dx="539" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gQ2vt1ykJgxuU1FTwto5-27" value="Chat" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="734" y="540" width="180" height="180" as="geometry" />
+          <mxGeometry x="734" y="540" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="gQ2vt1ykJgxuU1FTwto5-28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gQ2vt1ykJgxuU1FTwto5-27" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -125,6 +125,15 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gQ2vt1ykJgxuU1FTwto5-36" value="Name: String (Default: null)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="gQ2vt1ykJgxuU1FTwto5-34" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uaHAE5RTVEkF1MvO7IHW-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gQ2vt1ykJgxuU1FTwto5-27">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uaHAE5RTVEkF1MvO7IHW-2" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="uaHAE5RTVEkF1MvO7IHW-1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uaHAE5RTVEkF1MvO7IHW-3" value="Feed: UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="uaHAE5RTVEkF1MvO7IHW-1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gQ2vt1ykJgxuU1FTwto5-40" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;exitX=1.017;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gQ2vt1ykJgxuU1FTwto5-1" target="gQ2vt1ykJgxuU1FTwto5-31" edge="1">
@@ -205,7 +214,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0ovc_a5ujL2TssiEfVGP" name="Page-2">
+  <diagram id="0ovc_a5ujL2TssiEfVGP" name="Views">
     <mxGraphModel dx="920" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Quqv_jCw_hD5aWrR-QR0-0" />
