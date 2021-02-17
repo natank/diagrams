@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:25:37.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="zZsKNkBmGRKii2MlUVCA" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-17T04:59:23.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="_o2bT8M07OuE3mLL3_Aj" version="14.3.1" type="github" pages="3">
   <diagram id="UGNJpeUQMLZwutwp3lZp" name="Model">
-    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="gQ2vt1ykJgxuU1FTwto5-26" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="gQ2vt1ykJgxuU1FTwto5-24" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gQ2vt1ykJgxuU1FTwto5-27" value="Chat" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="gQ2vt1ykJgxuU1FTwto5-27" value="Conversation" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="734" y="540" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="gQ2vt1ykJgxuU1FTwto5-28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gQ2vt1ykJgxuU1FTwto5-27" vertex="1">
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0ovc_a5ujL2TssiEfVGP" name="Views">
-    <mxGraphModel dx="920" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Quqv_jCw_hD5aWrR-QR0-0" />
         <mxCell id="Quqv_jCw_hD5aWrR-QR0-1" parent="Quqv_jCw_hD5aWrR-QR0-0" />
@@ -264,7 +264,7 @@
             <mxPoint x="350" y="81" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quqv_jCw_hD5aWrR-QR0-9" value="Chats" style="whiteSpace=wrap;html=1;" parent="Quqv_jCw_hD5aWrR-QR0-2" vertex="1">
+        <mxCell id="Quqv_jCw_hD5aWrR-QR0-9" value="Conversations" style="whiteSpace=wrap;html=1;" parent="Quqv_jCw_hD5aWrR-QR0-2" vertex="1">
           <mxGeometry x="300" y="187" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Quqv_jCw_hD5aWrR-QR0-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="Quqv_jCw_hD5aWrR-QR0-2" target="Quqv_jCw_hD5aWrR-QR0-11" edge="1">
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPEUSiE2H6RtViFoToI9-5" value="new chat" style="whiteSpace=wrap;html=1;" parent="Quqv_jCw_hD5aWrR-QR0-1" vertex="1">
+        <mxCell id="lPEUSiE2H6RtViFoToI9-5" value="new conversation" style="whiteSpace=wrap;html=1;" parent="Quqv_jCw_hD5aWrR-QR0-1" vertex="1">
           <mxGeometry x="970" y="357" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lPEUSiE2H6RtViFoToI9-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Quqv_jCw_hD5aWrR-QR0-1" source="Quqv_jCw_hD5aWrR-QR0-3" target="lPEUSiE2H6RtViFoToI9-5" edge="1">
