@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T11:39:46.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5BdZ65kiOJGTSS95bIK9" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T11:40:13.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="o7fNm_5nB8lkiKBjb6eS" version="14.5.0" type="github">
   <diagram id="ssbEEzUmOCh-rj7EdILh" name="Page-1">
     <mxGraphModel dx="1240" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-7" value="&lt;font style=&quot;font-size: 17px&quot;&gt;EncourageText&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="344" width="120" height="60" as="geometry" />
+        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-7" value="&lt;font style=&quot;font-size: 17px&quot;&gt;EncourageText&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="344" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-8" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;DonateForm&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-8" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;DonateForm&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-9" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;DonationInput&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-9" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;DonationInput&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="344" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-10" value="&lt;font style=&quot;font-size: 17px&quot;&gt;FundProgress&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-10" value="&lt;font style=&quot;font-size: 17px&quot;&gt;FundProgress&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-12" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Top Message&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-12" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Top Message&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Project&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSQ6k1UYBv5pXOK0jdaq-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Project&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eSQ6k1UYBv5pXOK0jdaq-14" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="eSQ6k1UYBv5pXOK0jdaq-10" target="eSQ6k1UYBv5pXOK0jdaq-13">
