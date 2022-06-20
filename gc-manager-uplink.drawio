@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T15:56:03.321Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" version="20.0.0" etag="l2Kjv2tPxKJZOxPw9jUJ" type="github"><diagram id="qnGPEtTPZoTC5gG-DPA6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T16:02:42.172Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="IkxIkj6l-XtkOgMgbJCC" version="20.0.0" type="github">
+  <diagram id="qnGPEtTPZoTC5gG-DPA6" name="Page-1">
+    <mxGraphModel dx="934" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-2" value="tsgs services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-3" value="Commands" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-4" value="Phanes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-5" value="Swagger" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="199" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-6" value="GC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logowik.com/content/uploads/images/kafka8040.jpg;" vertex="1" parent="1">
+          <mxGeometry x="710" y="214" width="66.67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-8" value="CSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="238.8" as="sourcePoint" />
+            <mxPoint x="510" y="238.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="238.65999999999985" as="sourcePoint" />
+            <mxPoint x="719.9999999999998" y="238.65999999999985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HGk_aw0HoD3mKF_cUKSS-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="759.9999999999998" y="238.65999999999997" as="sourcePoint" />
+            <mxPoint x="819.9999999999998" y="238.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
